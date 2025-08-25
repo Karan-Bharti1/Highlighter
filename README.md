@@ -20,6 +20,3 @@
 - **Chrome Storage API** – Save highlights locally  
 - **Manifest V3** – Latest Chrome extension standard  
 
----
-
-## 📂 Project Structure

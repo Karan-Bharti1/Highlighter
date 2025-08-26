@@ -24,7 +24,7 @@
 
 ## 🚀 Getting Started
 
-Follow the steps below to **clone**, **build**, and **load** the extension in Chrome.
+Follow the steps to **clone**, **build**, and **load** the extension in Chrome.
 
 ### 🔧 Prerequisites
 
@@ -34,4 +34,14 @@ Make sure you have the following installed:
 - Git  
 - Google Chrome
 
----
+--- 
+###  Load the Extension in Chrome
+
+1. Open **Google Chrome**
+2. Go to: `chrome://extensions/`
+3. Enable **Developer Mode** (toggle in the top right corner)
+4. Click on **“Load unpacked”**
+5. Select the `dist/` folder inside your project directory
+
+✅ The **Highlighter** extension should now appear in your Chrome toolbar!
+

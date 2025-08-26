@@ -20,3 +20,18 @@
 - **Chrome Storage API** – Save highlights locally  
 - **Manifest V3** – Latest Chrome extension standard  
 
+---
+
+## 🚀 Getting Started
+
+Follow the steps below to **clone**, **build**, and **load** the extension in Chrome.
+
+### 🔧 Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js and npm  
+- Git  
+- Google Chrome
+
+---
